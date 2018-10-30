@@ -1,0 +1,6 @@
+<div class="jumbotron">
+  <h2>
+    Phoenix App - React App
+  </h2>
+  <p class="lead">Serve react app from phoenix</p>
+</div>
